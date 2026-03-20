@@ -1,0 +1,9 @@
+build/
+
+# От сборки Conan
+CMakeUserPresets.json
+CMakePresets.json
+
+# От работы приложения
+warehouse.db
+warehouse.log

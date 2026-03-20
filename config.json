@@ -1,0 +1,5 @@
+{
+    "database": "warehouse.db",
+    "log_level": "info",
+    "default_storage": "Основной склад"
+}
